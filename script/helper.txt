@@ -1,0 +1,2 @@
+usage: ./my_sudo -h
+usage: ./my_sudo [-ugEs] [command [args ...]]
